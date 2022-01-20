@@ -20,6 +20,7 @@
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=white">
 </p>
 <h4>Frontend Development</h4>
 <p>
@@ -30,7 +31,7 @@
 </p>
 <h4>Backend Development</h4>
 <p>
-  <img src="https://img.shields.io/badge/Java.js-339933?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-339933?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
  <img src="https://img.shields.io/badge/SQLServer-005C84?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -44,10 +45,17 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white">
- <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-044861?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Kanbanize-FFFFFF?style=for-the-badge&logo=kanbanize&logoColor=white">
+ 
 </p>
 
+<h4>Metodologies</h4>
+<p>
+ <img src="https://img.shields.io/badge/Scrum-FCC624?style=for-the-badge&logo=scrum&logoColor=white">
+ <img src="https://img.shields.io/badge/Kanban-430098?style=for-the-badge&logo=kanban&logoColor=white">
+</p>
 
 ### <a href="https://www.instagram.com/drake.hawke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drakehawke" height="30" width="40" /></a><a href="https://www.instagram.com/drake.hawke" target="_blank">Drake Hawke</a>
 My goal is to grow together with those who are also interested in programming and technology.
@@ -55,6 +63,7 @@ I am always willing to help anyone who needs a hand. Let's grow together! <a hre
 
 ### 🌱 I'm currently learning... / Last Projects
 
+- New profile web page with NextJs (The current page is made with Angular)
 - Web application for the organization of player data in the New World game for the Syndicate alliance.
 - Landing Pages with NextJs & GraphCMS
 - Advance React JS
