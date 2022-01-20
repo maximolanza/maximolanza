@@ -49,10 +49,7 @@
 </p>
 
 
-### <a href="https://www.instagram.com/drake.hawke" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drakehawke" height="30" width="40" />
-    </a>  
-<a href="https://www.instagram.com/drake.hawke" target="_blank">Drake Hawke</a>
+### <a href="https://www.instagram.com/drake.hawke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drakehawke" height="30" width="40" /></a><a href="https://www.instagram.com/drake.hawke" target="_blank">Drake Hawke</a>
 My goal is to grow together with those who are also interested in programming and technology.
 I am always willing to help anyone who needs a hand. Let's grow together! <a href="https://www.instagram.com/drake.hawke" target="_blank"></a>
 
