@@ -6,7 +6,7 @@
      { 
       "Linkedin" : "https://www.linkedin.com/in/maximolanza/", 
       "Resume"   : "https://maximolanza.github.io/",
-      "IG"       : "https://www.instagram.com/drake.hawke"
+      "IG"       : "https://www.instagram.com/dot__env"
      }
  }
 ```
