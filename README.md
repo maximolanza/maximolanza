@@ -57,20 +57,17 @@
  <img src="https://img.shields.io/badge/Kanban-430098?style=for-the-badge&logo=kanban&logoColor=white">
 </p>
 
-### <a href="https://www.instagram.com/drake.hawke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drakehawke" height="30" width="40" /></a><a href="https://www.instagram.com/drake.hawke" target="_blank">Drake Hawke</a>
+### <a href="https://www.instagram.com/drake.hawke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drakehawke" height="30" width="40" /></a><a href="https://www.instagram.com/dot__env" target="_blank">@dot__env</a>
 My goal is to grow together with those who are also interested in programming and technology.
 I am always willing to help anyone who needs a hand. Let's grow together! <a href="https://www.instagram.com/drake.hawke" target="_blank"></a>
 
-### 🌱 I'm currently learning... / Last Projects
+### 🌱 I'm currently learning... 
 
-- New profile web page with NextJs (The current page is made with Angular)
-- Web application for the organization of player data in the New World game for the Syndicate alliance.
-- Landing Pages with NextJs & GraphCMS
-- Advance React JS
-- MERN Stack Course
+- A little more about code into art.
 
 
-### 🗣 Máximo as a Teacher
+
+### 🗣 Máximo as a Teacher ( ?
 Teaching friends to become 👩‍💻CODERS
 
 ---
