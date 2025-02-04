@@ -84,7 +84,7 @@ Teaching friends to become 👩‍💻CODERS
 
 
 #### 🎧 I love music! | Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12132230898&cover_image=false&theme=default&bar_color=a366ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12132230898&cover_image=false&theme=default&bar_color=a366ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## And I'm also a coffe lover :D
 
