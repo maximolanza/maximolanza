@@ -63,7 +63,8 @@ I am always willing to help anyone who needs a hand. Let's grow together! <a hre
 
 ### 🌱 I'm currently learning... 
 
-- Some UX/UI basics and Flutter basics, 
+- Some UX/UI basics and Flutter basics.
+- With reactJs/NextJs: Tailwind -> Shadcn, Supabase.
 
 
 
