@@ -68,16 +68,6 @@ I am always willing to help anyone who needs a hand. Let's grow together! <a hre
 
 ---
 
-### Github Stats:
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximolanza&theme=radical&card_width=450em)](https://github.com/maximolanza/maximolanza/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximolanza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-  </tr>
-</table>
-
-
 #### 🎧 I love music! | Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12132230898&cover_image=false&theme=default&bar_color=a366ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
