@@ -4,7 +4,7 @@
    “role” : “Frontend Dev”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/maximolanza/", 
+      "Linkedin" : "https://www.linkedin.com/in/máximo-lanza/", 
       "Resume"   : "https://maximolanza.github.io/",
       "IG"       : "https://www.instagram.com/dot__env"
      }
